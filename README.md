@@ -1,4 +1,4 @@
-# Chinook-Database-SQL-Projec
+# Chinook-Database-SQL-Project
 ## Business Analytics Nanodegree from Udacity with Bertelsmann
 
 ### Project 3: Query a Digital Music Store Database using [SQLite local environment](https://sqlitebrowser.org/dl/)
